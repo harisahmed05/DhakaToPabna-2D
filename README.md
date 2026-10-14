@@ -6,7 +6,11 @@
 **ঢাকা থেকে পাবনা, বাসযাত্রা** — a self-contained animation of a 5-hour coach trip, complete with sunrise, sunset, traffic,
 rickshaws, cattle trucks, and a stop at Food Village.
 
-![screenshot](screenshot.png)
+<p></p>
+<p></p>
+<p></p>
+
+![image](screenshot.png)   
 
 ---
 
