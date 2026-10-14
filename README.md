@@ -1,4 +1,4 @@
-# Dhaka → Pabna
+# Home Sweet Home Pabna
 
 > Vibe-coded pixel-art bus ride across 205 km of Bangladesh — from the
 > terminals of Dhaka, over the Jamuna Bridge, and on to Pabna.
@@ -6,11 +6,10 @@
 **ঢাকা থেকে পাবনা, বাসযাত্রা** — a self-contained animation of a 5-hour coach trip, complete with sunrise, sunset, traffic,
 rickshaws, cattle trucks, and a stop at Food Village.
 
-  ![screenshot](screenshot.png){width=600}   
+![screenshot](screenshot.png)
 
 ---
 
-![screenshot](screenshot.png){width=600}   
 
 ## What you'll see
 
